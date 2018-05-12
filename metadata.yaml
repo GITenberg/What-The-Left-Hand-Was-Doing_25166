@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25267
     wikipedia: http://en.wikipedia.org/wiki/Randall_Garrett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25166#What-The-Left-Hand-Was-Doing
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2008-04-25'
 gutenberg_type: Text
